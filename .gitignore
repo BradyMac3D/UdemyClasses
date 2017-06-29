@@ -1,0 +1,17 @@
+#########################
+#Unreal Genereated Files#
+#########################
+
+/BuildingEscape/BuildingEscape/Intermediate
+
+/BuildingEscape/BuildingEscape/Saved
+
+/BuildingEscape/BuildingEscape/Binaries
+
+/BuildingEscape/BuildingEscape/Content/StarterContent
+
+###############################
+#Visual Studio Generated Files#
+###############################
+
+*.VC.db
